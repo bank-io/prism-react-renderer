@@ -10,6 +10,7 @@ declare module "prism-react-renderer" {
     | "css"
     | "javascript"
     | "jsx"
+    | "http"
     | "coffeescript"
     | "actionscript"
     | "css-extr"

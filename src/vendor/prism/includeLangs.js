@@ -13,6 +13,7 @@ module.exports = {
   "css-extras": true,
   javascript: true,
   jsx: true,
+  http: true,
   "js-extras": true,
   coffeescript: true,
   diff: true,
