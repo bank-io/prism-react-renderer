@@ -16,6 +16,7 @@
   ],
   "scripts": {
     "build": "rollup -c rollup.config.js",
+    "prepare": "npm run build",
     "test": "jest",
     "flow": "flow check",
     "format": "prettier --write src/**/*.js",
